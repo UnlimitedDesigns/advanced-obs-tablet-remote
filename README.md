@@ -8,5 +8,5 @@ Advanced Features:
 - Start/Stop Stream function
 - Stream Online Status
 
-Credits the Interface are going to  to https://github.com/t2t2/obs-tablet-remote
-# advanced-obs-tablet-remote
+Credits for the interface are going to: https://github.com/t2t2/obs-tablet-remote
+
